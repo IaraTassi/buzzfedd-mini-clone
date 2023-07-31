@@ -1,0 +1,67 @@
+{
+  "title":"Qual sua personalidade ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual é/era a tua disciplina favorita na escola?",
+      "options":[
+        {"id": 1, "name":"Matemática", "alias":"A"},
+        {"id": 2, "name":"Português", "alias":"B"},
+        {"id": 3, "name":"Educação Física", "alias":"C"},
+        {"id": 4, "name":"História e Geografia", "alias":"D"},
+        {"id": 5, "name":"Ciências, Fícica e Química", "alias":"E"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual desenho antigo favorito ?",
+      "options":[
+        {"id": 1, "name":"Tom e Jerry", "alias":"B"},
+        {"id": 2, "name":"Os Flintstones", "alias":"D"},
+        {"id": 3, "name":"Os Jetsons", "alias":"E"},
+        {"id": 4, "name":"Scooby Doo", "alias":"A"},
+        {"id": 5, "name":"Pica Pau", "alias":"C"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Como é que preferes passar o tempo ?",
+      "options":[
+        {"id": 1, "name":"Ler um bom livro", "alias":"D"},
+        {"id": 2, "name":"Navegar nas redes sociais", "alias":"E"},
+        {"id": 3, "name":"Ver sua série favorita", "alias":"A"},
+        {"id": 4, "name":"Viajar", "alias":"B"},
+        {"id": 5, "name":"Se exercitar", "alias":"C"}      
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual a sua qualidade ?",
+      "options":[
+        {"id": 1, "name":"Paciência", "alias":"D"},
+        {"id": 2, "name":"Ambicioso", "alias":"B"},
+        {"id": 3, "name":"Organizado", "alias":"E"},
+        {"id": 4, "name":"Inteligência", "alias":"A"},
+        {"id": 5, "name":"Lealdade", "alias":"C"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual animal você gosta ?",
+      "options":[
+        {"id": 1, "name":"Gato", "alias":"D"},
+        {"id": 2, "name":"Cachorro", "alias":"A"},
+        {"id": 3, "name":"Peixes", "alias":"B"},
+        {"id": 4, "name":"Aves", "alias":"E"},
+        {"id": 5, "name":"Cavalo", "alias":"C"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito gosta de ajudar os outros!",
+    "B": "Você um lider!",
+    "C": "Você é quem resolve problemas!",
+    "D": "Você é perfeccionista!",
+    "E": "Você é criativo!"
+  }
+}
