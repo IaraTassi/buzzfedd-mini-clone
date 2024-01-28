@@ -1,7 +1,7 @@
 # 📁 Projeto Clone BuzzFeed com Angular
 
 Esse projeto foi desenvolvido durante a Formação Angular - [Digital Innovation One](https://www.dio.me/) com o Framework Angular. Consiste na criação de um Quizz com utilização dos conceitos aprendidos durante o bootcamp.
-Acesse o site e faça o seu teste através do link: [buzzfedd-mini-clone-hdlbmdsij-iaratassi.vercel.app](https://buzzfedd-mini-clone-qhuc5tipx-iaratassi.vercel.app)
+Acesse o site e faça o seu teste através do link: [Clone BuzzFeed](https://buzzfedd-mini-clone-qhuc5tipx-iaratassi.vercel.app/) https://buzzfedd-mini-clone-qhuc5tipx-iaratassi.vercel.app
 
  # 👁 Os resultados
  
